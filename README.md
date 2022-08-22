@@ -1,0 +1,1 @@
+This notebook shows some results from ongoing work exploring changes in extreme precipitation under a RCP8.5 scenario, as predicted by a 3-ensemble, high-resolution CESM simulation (Chang et al., JAMES, 2020)
